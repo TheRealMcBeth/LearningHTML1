@@ -1,0 +1,61 @@
+.bold { font-weight: bold; }
+.red { color: #FF0000; }
+
+#imgshadow {
+	margin:auto;
+    box-shadow: 0px 0px 30px 30px #000;
+    height:200px;
+    width:200px;
+}
+
+#sportspic {
+    box-shadow: 0px 0px 10px 5px #000;
+    height:200px;
+    width:375px;
+}
+
+#column1	{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+p {
+    text-shadow: -2px 2px #000;
+    font-variant: small-caps;
+
+}
+
+p.medium {
+   font-size: medium;
+
+h1 {
+    text-shadow: -2px 2px #000;
+    font-variant: small-caps;
+}
+
+h2 {
+    text-shadow: -2px 2px #000;
+    font-variant: small-caps;
+}
+
+img{ 
+	padding: 0px 0px 0px;
+
+
+}
+
+#NFL {
+    float: left;
+    width: 420px;
+}
+
+#NBA {
+    float: left;
+    width: 420px;
+}
+
+#College {
+    float: left;
+    width: 420px;
+}
